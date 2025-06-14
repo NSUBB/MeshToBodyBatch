@@ -3,6 +3,8 @@ FreeCAD Macro to Convert All Meshes in the Active Document to Separate PartDesig
 
 ![MeshToBodyBATCH](https://github.com/user-attachments/assets/45d65306-9ca2-43cb-a51d-5f9f1ae65853)
 
+https://forum.freecad.org/viewtopic.php?t=97700
+
 ## Overview
 
 This FreeCAD macro automates the process of converting multiple mesh objects into PartDesign Bodies while ensuring mesh integrity through automatic repair routines. It evaluates each mesh, attempts automatic repairs when required, and converts valid meshes into solid bodies.
